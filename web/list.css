@@ -1,0 +1,33 @@
+
+#tbl{
+    margin: 0 auto;
+    width: 80%;
+}
+#thead{
+    background-color: #66ccff;
+}
+#tbl-chitiet{
+    margin: 0 auto;
+    width: 50%;
+}
+.title{
+    background-color: #66ccff;
+}
+.content{
+    background-color: whitesmoke;
+}
+.tong-thu{
+    background-color: #ff6666;
+    font-size: 20px;
+}
+#table-striped{
+    margin: 0 auto;
+    width: 80%;
+}
+.thead-thuchi{
+    background-color: #3399ff;
+}
+.table td, .table th{
+    width: 200px;
+}
+
